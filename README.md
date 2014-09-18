@@ -1,5 +1,3 @@
-NOTE: View this with proper Markdown formatting at https://gist.github.com/kvu787/66791580167509a6a6a9.
-
 Here are some of the things I've built, organized by language:
 
 # Go Schedule (Go)
