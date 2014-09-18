@@ -1,5 +1,3 @@
-[TEST](http://lobsterhousesunrise.com/yahoo_site_admin/assets/images/812lobster.142182414_std.jpg)
-
 NOTE: View this with proper Markdown formatting at https://gist.github.com/kvu787/66791580167509a6a6a9.
 
 Here are some of the things I've built, organized by language:
@@ -10,6 +8,7 @@ Go Schedule is an open source library to extract data from the UW time schedule 
 
 - [Web app](http://go-schedule.com/)
 - [GitHub project](https://github.com/kvu787/goschedule/)
+
 
 ## Code sample
 
