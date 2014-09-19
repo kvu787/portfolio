@@ -8,6 +8,8 @@ Go Schedule is an open source library to extract data from the UW time schedule 
 - [GitHub project](https://github.com/kvu787/goschedule/)
 
 
+![Screen shot of GoSchedule](https://raw.githubusercontent.com/kvu787/portfolio/master/images/goschedule.png)
+
 ## Code sample
 
 [Source](https://github.com/kvu787/goschedule/blob/master/lib/database.go)
@@ -62,10 +64,14 @@ Usage:
 
 # Wingman (C#, ASP.NET)
 
-Project for Microsoft Research. Code is not open source, but the [web app](http://wingman.azurewebsites.net/) can be publicly viewed.
+Project for Microsoft Research. Code is not open source, but the [web app](http://wingman.azurewebsites.net/) can be publicly accessed.
+
+![Screen shot of Wingman](https://raw.githubusercontent.com/kvu787/portfolio/master/images/wingman.png)
 
 # Teens In Public Service (TIPS) Timesheet Manager (Ruby on Rails)
 
 Web application for TIPS interns to submit timesheets and for administrators to approve them. 
 Uses MailChimp to send emails and Cucumber for automated testing.
 Code is not open source and website is not available to the public.
+
+![Screen shot of TIPS timesheet manager](https://raw.githubusercontent.com/kvu787/portfolio/master/images/tips.png)
