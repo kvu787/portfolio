@@ -1,16 +1,33 @@
 Here are some of the things I've built, organized by language:
 
+# LL1 Parser (Go)
+
+Library to parse LL1 grammars.
+
+[Source](https://bitbucket.org/kvu787/ll1)
+
+# Simple robot (C)
+
+A simple Arduino robot. Each motor can be controlled independently by sending commands over the serial monitor.
+
+Transistors are used to vary on-off cycles to simulate different current levels for the motors.
+
+[Source](https://bitbucket.org/kvu787/robot)
+
+![Screen shot of robot](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot.png)
+
 # Go Schedule (Go)
 
 Go Schedule is an open source library to extract data from the UW time schedule and a web application that uses that library. 
 
-- [Web app](http://go-schedule.com/)
-- [GitHub project](https://github.com/kvu787/goschedule/)
+[Web app](http://go-schedule.com/)
+
+[GitHub project](https://github.com/kvu787/goschedule/)
 
 
 ![Screen shot of GoSchedule](https://raw.githubusercontent.com/kvu787/portfolio/master/images/goschedule.png)
 
-## Code sample
+### Code sample
 
 [Source](https://github.com/kvu787/goschedule/blob/master/lib/database.go)
 
@@ -45,7 +62,7 @@ Runs an interactive Unicode tutorial I made with AngularJS.
 
 To view the tutorial, pull the [GitHub repo](https://github.com/kvu787/unicool) and open `index.html` in your browser.
 
-## Code sample
+### Code sample
 
 [Source](https://github.com/kvu787/unicool/blob/master/unicode.js)
 
