@@ -1,5 +1,11 @@
 Here are some of the things I've built, organized by language:
 
+# Simple programmable robot (C) (work in progress)
+
+A simple Arduino robot. Basic instructions can be loaded into the robot through the breadboard control interface.
+
+![Screen shot of robot](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot2.png)
+
 # LL1 Parser (Go)
 
 Library to parse LL1 grammars.
@@ -8,9 +14,9 @@ Library to parse LL1 grammars.
 
 # Simple robot (C)
 
-A simple Arduino robot. Each motor can be controlled independently by sending commands over the serial monitor.
+A simple Arduino robot. Each motor can be controlled independently by sending commands over the serial monitor during runtime.
 
-Transistors are used to vary on-off cycles to simulate different current levels for the motors.
+Transistors are used to vary on-off cycles to simulate different current levels for each motor.
 
 [Source](https://bitbucket.org/kvu787/robot)
 
