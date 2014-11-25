@@ -1,5 +1,13 @@
 Here are some of the things I've built, organized by language:
 
+# boost - asteroid evasion game (Go)
+
+[Github project](https://github.com/kvu787/boost)
+
+A simple game where you avoid asteroids while trying to slip between them. 
+
+![Screen shot of boost](https://raw.githubusercontent.com/kvu787/portfolio/master/images/boost.png)
+
 # Simple programmable robot (C) (work in progress)
 
 A simple Arduino robot. Basic instructions can be loaded into the robot through the breadboard control interface.
