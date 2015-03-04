@@ -32,12 +32,9 @@ Transistors are used to vary on-off cycles to simulate different current levels 
 
 # Go Schedule (Go)
 
-Go Schedule is an open source library to extract data from the UW time schedule and a web application that uses that library. 
-
-[Web app](http://go-schedule.com/)
+Go Schedule is an open source library to extract data from the UW time schedule and a web application that uses that library.
 
 [GitHub project](https://github.com/kvu787/goschedule/)
-
 
 ![Screen shot of GoSchedule](https://raw.githubusercontent.com/kvu787/portfolio/master/images/goschedule.png)
 
