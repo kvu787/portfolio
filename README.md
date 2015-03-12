@@ -38,8 +38,6 @@ Go Schedule is an open source library to extract data from the UW time schedule 
 
 [GitHub project](https://github.com/kvu787/goschedule/)
 
-![Screen shot of GoSchedule](https://raw.githubusercontent.com/kvu787/portfolio/master/images/goschedule.png)
-
 ### Code sample
 
 [Source](https://github.com/kvu787/goschedule/blob/master/lib/database.go)
