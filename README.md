@@ -1,3 +1,5 @@
+My [resume](https://raw.githubusercontent.com/kvu787/portfolio/master/resume.pdf).
+
 Here are some of the things I've built, organized by language:
 
 ## pong - a simple pong clone (Go)
