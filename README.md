@@ -1,28 +1,28 @@
 Here are some of the things I've built, organized by language:
 
-# pong - a simple pong clone (Go)
+## pong - a simple pong clone (Go)
 
 [Github project](https://github.com/kvu787/pong)
 
-# boost - asteroid evasion game (Go)
+## boost - asteroid evasion game (Go)
 
 [Github project](https://github.com/kvu787/boost)
 
 A simple game where you avoid asteroids while trying to slip between them.
 
-# LL1 Parser (Go)
+## LL1 Parser (Go)
 
 Library to parse LL1 grammars.
 
 [Source](https://bitbucket.org/kvu787/ll1)
 
-# Simple programmable robot (C)
+## Simple programmable robot (C)
 
 A simple Arduino robot. Basic instructions can be loaded into the robot through the breadboard control interface.
 
 [Picture](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot2.png)
 
-# Simple robot (C)
+## Simple robot (C)
 
 A simple Arduino robot. Each motor can be controlled independently by sending commands over the serial monitor during runtime.
 
@@ -32,7 +32,7 @@ Transistors are used to vary on-off cycles to simulate different current levels 
 
 [Picture](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot.png)
 
-# Go Schedule (Go)
+## Go Schedule (Go)
 
 Go Schedule is an open source library to extract data from the UW time schedule and a web application that uses that library.
 
@@ -67,7 +67,7 @@ By facilitating basic object relational mapping, we can easily query the databas
 	
 	processTurkeys(turkeyRecords.([]Turkey))
 
-# Unicool (Javascript)
+## Unicool (Javascript)
 
 Library to convert to and from commonly used bases and encodings in Unicode.
 
@@ -92,13 +92,13 @@ Usage:
 	// binary to hex
 	unicodeConvert('10000010101100;, datatypesEnum.BIN, datatypesEnum.HEX) === '20ac';
 
-# Wingman (C#, ASP.NET)
+## Wingman (C#, ASP.NET)
 
 Project for Microsoft Research. Code is not open source, but the [web app](http://wingman.azurewebsites.net/) can be publicly accessed.
 
 ![Screen shot of Wingman](https://raw.githubusercontent.com/kvu787/portfolio/master/images/wingman.png)
 
-# Teens In Public Service (TIPS) Timesheet Manager (Ruby on Rails)
+## Teens In Public Service (TIPS) Timesheet Manager (Ruby on Rails)
 
 Web application for TIPS interns to submit timesheets and for administrators to approve them. 
 Uses MailChimp to send emails and Cucumber for automated testing.
