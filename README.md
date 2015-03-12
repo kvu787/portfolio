@@ -1,24 +1,26 @@
 Here are some of the things I've built, organized by language:
 
+# pong - a simple pong clone (Go)
+
+[Github project](https://github.com/kvu787/pong)
+
 # boost - asteroid evasion game (Go)
 
 [Github project](https://github.com/kvu787/boost)
 
-A simple game where you avoid asteroids while trying to slip between them. 
-
-![Screen shot of boost](https://raw.githubusercontent.com/kvu787/portfolio/master/images/boost.png)
-
-# Simple programmable robot (C) (work in progress)
-
-A simple Arduino robot. Basic instructions can be loaded into the robot through the breadboard control interface.
-
-![Screen shot of robot](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot2.png)
+A simple game where you avoid asteroids while trying to slip between them.
 
 # LL1 Parser (Go)
 
 Library to parse LL1 grammars.
 
 [Source](https://bitbucket.org/kvu787/ll1)
+
+# Simple programmable robot (C)
+
+A simple Arduino robot. Basic instructions can be loaded into the robot through the breadboard control interface.
+
+[Picture](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot2.png)
 
 # Simple robot (C)
 
@@ -28,7 +30,7 @@ Transistors are used to vary on-off cycles to simulate different current levels 
 
 [Source](https://bitbucket.org/kvu787/robot)
 
-![Screen shot of robot](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot.png)
+[Picture](https://raw.githubusercontent.com/kvu787/portfolio/master/images/robot.png)
 
 # Go Schedule (Go)
 
@@ -42,7 +44,7 @@ Go Schedule is an open source library to extract data from the UW time schedule 
 
 [Source](https://github.com/kvu787/goschedule/blob/master/lib/database.go)
 
-The following method executes a `SELECT` operation with an arbitrary Go struct and a database connection. 
+The following method executes a `SELECT` operation with an arbitrary Go struct and a database connection.
 
 It uses Go's reflection package to determine the table names and columns to query based on the provided struct.
 
@@ -69,7 +71,7 @@ By facilitating basic object relational mapping, we can easily query the databas
 
 Library to convert to and from commonly used bases and encodings in Unicode.
 
-Runs an interactive Unicode tutorial I made with AngularJS. 
+Runs an interactive Unicode tutorial I made with AngularJS.
 
 To view the tutorial, pull the [GitHub repo](https://github.com/kvu787/unicool) and open `index.html` in your browser.
 
